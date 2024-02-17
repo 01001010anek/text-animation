@@ -1,2 +1,2 @@
 # Simple website with css text animation
-Made 4 fun
+Made just 4 fun
